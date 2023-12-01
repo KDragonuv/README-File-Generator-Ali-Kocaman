@@ -8,6 +8,10 @@ AS A developer
 I WANT a README generator
 SO THAT I can quickly create a professional README for a new project
 
+## Usage
+
+https://drive.google.com/file/d/1YnFOxwlr64UOFUjmhDCWsutRitC4xpRf/view?usp=sharing 
+
 ## Acceptance Criteria
 
 GIVEN a command-line application that accepts user input
